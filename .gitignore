@@ -1,0 +1,42 @@
+# Build results
+bin/
+obj/
+*.exe
+*.dll
+*.app
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.userosscache
+*.sln.docstates
+
+# MonoGame/Content pipeline
+Content/bin/
+Content/obj/
+Content/**/*.xnb
+Content/**/*.mgcontent
+Content/**/*.mgstats
+
+# VS Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.dbmdl
+
+# NuGet
+*.nupkg
+*.snupkg
+project.assets.json
+*.nuget.*
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Others
+*.log
+*.sln
